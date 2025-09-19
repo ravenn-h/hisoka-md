@@ -1,0 +1,10 @@
+# API Endpoints Found
+
+- /admin/generate-key
+- /server-status
+- /bot-counts
+- /request-pairing
+- /health
+- /admin/add-user
+- /admin/keys
+- /admin/users
